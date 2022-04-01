@@ -35,8 +35,8 @@ path {
 #sun {
 	position: absolute;
 	margin-left: -10px;
-	margin-top: 6px;
 	height: 60px;
+	width: 68px;
 	left: 45px;
 	top: 10px;
 	z-index: 1;
@@ -45,7 +45,7 @@ path {
 }
 
 #sun path {
-	stroke-width: 0.25;
+	stroke-width: 0.20;
 	fill: #9ea1a4;
 }
 
@@ -63,8 +63,8 @@ path {
 	position: relative;
 	height: 70px;
 	width: 70px;
-	margin-top: -34px;
 	margin-left: 18px;
+	margin-top: -32px;
 }
 
 .drop {
@@ -73,7 +73,7 @@ path {
 	border-radius: 0 0 6px 6px;
 	display: block;
 	float: left;
-	height: 18px;
+	height: 10px;
 	width: 3px;
 	margin-left: 4px;
 	
